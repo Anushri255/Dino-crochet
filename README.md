@@ -1,2 +1,2 @@
 # Dino-crochet
-Dino crochet
+Crochet a dino
